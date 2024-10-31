@@ -1,0 +1,11 @@
+* { margin: 0; padding: 0; }
+.page-wrap { width: 890px; height: 100%; font-size: 14px; font-family: sans-serif; font-weight: 300; }
+.page-wrap h2,p { margin: 0 !important; }
+.page-wrap dt,dd { font-weight: 300; }
+.gridacc { float: left; width: 132px; height: 100%; overflow: hidden; margin-bottom: 35px; }
+.gridacc h2 { font-size: 1.5em; text-align: center; font-weight: normal; padding: 12px 0; margin: 0; background: #333; color: #fff; font-family: 'Lato', sans-serif;}
+.gridacc p,dl,dt,dd { margin: 0 !important; } 
+.photo img { height: 200px; min-width: 320px; display: block; box-shadow: none !important; border-radius: 0 !important; }
+.gridacc dt { padding: 5px; background: #900; color: white; font-family: 'Lato'; font-size: 16px; }
+.gridacc dd { position: absolute; left: -9999px; top: -9999px; width: 300px; background: #900; padding: 10px; color: white; }
+
